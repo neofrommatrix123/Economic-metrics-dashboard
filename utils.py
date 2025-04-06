@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 from fredapi import Fred
-from pandas_datareader import data as pdr
 import requests
 from bs4 import BeautifulSoup
 import os
